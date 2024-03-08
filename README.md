@@ -14,18 +14,13 @@ index.html: The main HTML file that represents the structure of the website.
 
 Project Title:
 
-[Your Website's Name]
+Dawat
 
 Description:
 
-This repository contains the source code for [Your Website's Name], a [brief description of your website - its purpose, target audience, key features, etc.].
+This repository contains the source code for Dawat , a [brief description of your website - its purpose, target audience, key features, etc.].
 
-Features:
 
-[Feature 1]
-[Feature 2]
-[Feature 3]
-...
 Technologies Used:
 
 HTML5
